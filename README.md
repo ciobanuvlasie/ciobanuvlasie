@@ -2,7 +2,7 @@
 
 ### Systems Engineering student 
 I am focused on building structured, reliable and efficient engineering solutions.
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ciobanuvlasie&theme=tokyonight)
+
 
  ##### Areas of Interest
 - Software Engineering  
