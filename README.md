@@ -19,5 +19,5 @@ System Engineering Student
 
 ## Contact
 - Email: vlasie-irinel.ciobanu@student.tuiasi.ro
-- LinkedIn: [https://linkedin.com/in/username  ](https://www.linkedin.com/in/ciobanuvlasie/)
+- LinkedIn: https://www.linkedin.com/in/ciobanuvlasie/
 - GitHub: https://github.com/ciobanuvlasie
